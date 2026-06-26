@@ -1,9 +1,9 @@
 name: Daily News Push
 
-on:
+'on':
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "50 3 * * *"
 
 jobs:
   push-news:
