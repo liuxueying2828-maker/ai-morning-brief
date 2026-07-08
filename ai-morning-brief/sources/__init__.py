@@ -1,1 +1,0 @@
-"""Information source connectors."""
